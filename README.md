@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 🐣
+
+I'm Felicia. A Front End Developer student at Medieinstitutet in Stockholm.  
+So far, I've acquired solid understanding of HTML, CSS/SCSS and JavaScript/TypeScript.  
+Over the next couple of months, I will expand my skillset to include working with Vue and React. 💥
+
+Right now I'm in the process of finding the perfect match for my first internship between september 25th and december 3rd.   
+Portfolio is still a lil work in progress (what isn't?), but have a look: https://feliciacalming.se
 
 <!--
 **feliciacalming/feliciacalming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
